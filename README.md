@@ -1,5 +1,7 @@
-Analysis for kaggle.sf-bay-area-bike-share
-===
+# Attempt to Get Business Insight from Data
+How to Get Business Insight from Data?  
+Proposal of Promoting Sightseeing in Weekend for Specific Station Users with Latent Demand
+
 ## Kaggle URL
 https://www.kaggle.com/benhamner/sf-bay-area-bike-share
 
